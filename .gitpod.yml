@@ -1,4 +1,4 @@
-image: patrickmckernin/stringchapter2022
+image: jelaniwoods/appdev2022-string-chapter
 
 tasks:
   - init: bin/setup
