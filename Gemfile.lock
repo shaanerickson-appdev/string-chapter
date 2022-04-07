@@ -7,8 +7,7 @@ GIT
 
 GIT
   remote: https://github.com/firstdraft/web_git.git
-  revision: a2be64e762eb0d79a204ab8cf941e99c1b2a2a8d
-  branch: spring2020
+  revision: 934e081e566dc25e6510b4c8780330e7198b6e5e
   specs:
     web_git (0.1.0)
       actionview
