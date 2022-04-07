@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2022-string-chapter
+image: jelaniwoods/appdev2022-ruby-chapters
 
 tasks:
   - init: bin/setup
